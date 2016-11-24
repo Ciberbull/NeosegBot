@@ -4,3 +4,5 @@ Test 1
 =======
 Hola Amigos!!
 >>>>>>> refs/remotes/origin/master
+
+Test 2
